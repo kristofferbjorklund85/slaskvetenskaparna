@@ -1,4 +1,4 @@
-public class test-o-stereo {
+public class troll {
 
 	String firstName;
 	String lastName;
