@@ -1,4 +1,4 @@
-public class personP {
+public class test-o-stereo {
 
 	String firstName;
 	String lastName;
