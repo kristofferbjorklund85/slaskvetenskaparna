@@ -1,4 +1,4 @@
-public class troll {
+public class Helvete {
 
 	String firstName;
 	String lastName;
